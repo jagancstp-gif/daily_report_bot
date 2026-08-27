@@ -34,7 +34,7 @@ pyautogui.PAUSE = 0.4
 # CONFIGURATION
 # --------------------------------------------------------------------------
 OUTPUT_DIR = os.path.expanduser("~/Desktop/daily_reports")
-WEATHER_URL = "https://wttr.in/Chennai?format=3" # plain-text weather line
+WEATHER_URL = "https://wttr.in/~Siruseri,+India?format=3" # plain-text weather line
 COMMENT_TEXT = "Good for outdoor activities"
 
 APP_LAUNCH_WAIT = 3.0
